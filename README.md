@@ -8,6 +8,7 @@ The aim of this small project is to learn more about Node.JS (specifically creat
 ## Learning Outcomes
 
 MongoDB: 
+In order to actually make MongoDB work on Apple M1 chip, first is required to install Rosetta 2, create separate terminal for running Rosetta 2, installing brew in this terminal and then installing MongoDB. Makes things nice and easy. Otherwise, installing Mongo on M1 is simply impossible (at least at this very moment, that is April/2021)
 
 
 Mongoose:
